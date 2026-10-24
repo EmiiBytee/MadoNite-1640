@@ -1,0 +1,17 @@
+# No incorporar registros, cachés ni datos locales de cuentas.
+*.log
+*.tmp
+*.bak
+*.backup
+.env
+*.key
+*.pem
+*.p12
+*.pfx
+auth.json
+credentials.json
+
+# The complete mod is distributed as a verified Release ZIP.
+/16.40/
+/MOD_MANIFEST.json
+/comprobar_mod.ps1
